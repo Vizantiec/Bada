@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>TextPic</Entry>
+    <Name>
+        <English>TextArt</English>
+        <eng-GB>TextArt</eng-GB>
+        <rus-RU>ТекстАрт</rus-RU>
+    </Name>
+    <Vendor/>
+    <Description/>
+    <Icons>
+        <MainMenu>TextArt.png<Type1>TextArt.png</Type1>
+            <Type2/>
+            <Type3/>
+            <Type4/>
+            <Type5/>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash.png<Type1>Splash.png</Type1>
+            <Type2/>
+            <Type3/>
+            <Type4/>
+            <Type5/>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>
