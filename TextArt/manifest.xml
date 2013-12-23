@@ -1,0 +1,25 @@
+<?xml version='1.0' ?>
+<Manifest>
+    <Id>b4ip7o9n32</Id>
+    <Secret>21888E80306349CD5B2FD35AE7090AF0</Secret>
+  <AppVersion>1.2.0</AppVersion>
+  <ManifestVersion>1.2</ManifestVersion>
+  <AppType>C++App</AppType>
+    <Privileges>
+        <Privilege>
+            <Name>APP_SERVICE</Name>
+        </Privilege>
+        <Privilege>
+            <Name>LOCAL_CONTENT</Name>
+        </Privilege>
+        <Privilege>
+            <Name>HTTP</Name>
+        </Privilege>
+        <Privilege>
+            <Name>SYSTEM_SERVICE</Name>
+        </Privilege>
+    </Privileges>
+    <DeviceProfile>
+        <APIVersion>2.0</APIVersion>
+    </DeviceProfile>
+</Manifest>
